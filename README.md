@@ -1,4 +1,25 @@
 ﻿# Gym-Management-System
 
-Gym Management System: lightweight web app to manage members, classes, trainers, attendance, payments, and reports. Modular code, role-based auth, responsive UI, Flask reference stack, easy setup, tests, and MIT license—ideal for small gyms and developers.
+About
+A lightweight, modular project for gyms to track memberships, class schedules, trainer assignments, attendance, and payments. Designed for easy setup, clear code structure, and simple customization so small gyms or developers can extend it quickly.
+
+Features
+Member management (profiles, membership types)
+
+Class scheduling and bookings
+
+Attendance tracking with check‑in/out
+
+Payment records and basic invoicing
+
+Trainer and staff management
+
+Admin dashboard for overview and reports
+
+Tech Stack
+Backend: Flask (Python) 
+
+Frontend: HTML/CSS + Bootstrap or React for SPA
+
+Auth: Email/password with role-based access
 
